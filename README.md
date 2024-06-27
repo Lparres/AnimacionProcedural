@@ -1,2 +1,6 @@
-# AnimacionProcedural
- Proyecto de fin de grado donde se investiga e implementa técnicas de animación procedural en videojuegos.
+## ¿Qué es la animación procedural?
+<p>La <strong>animación procedural</strong> utiliza algoritmos y reglas predefinidas para animar personajes u objetos de forma automatizada. Mediante estos procedimientos, se puede simular cómo un objeto de la escena debe moverse, interactuar con su entorno o responder a ciertas acciones, entre otras cosas.</p>
+<p>Esta <strong>técnica</strong> está revolucionando la forma en que se producen animaciones, permitiendo a los animadores crear escenas y animaciones complejas y flexibles, a la par que eficientes. El animador puede modificar y reutilizar las animaciones en multitud de escenarios y situaciones, ajustando su comportamiento mediante parámetros.</p>
+<p>La animación procedural ha encontrado su nicho de mercado en la <strong>producción de videojuegos</strong>, efectos visuales y simulaciones; aunque poco a poco se va extendiendo su uso a prácticamente cualquier sector en el que se requiera de animación por ordenador.</p>
+<hr>
+<p>En este <strong>proyecto</strong>, descubriremos cómo funciona esta técnica, aprenderemos a implementarla en un proyecto real y la pondremos en práctica para comprobar su potencial. Finalmente, analizaremos las ventajas que ofrece respecto a otras técnicas de animación 3D más tradicionales.</p>
